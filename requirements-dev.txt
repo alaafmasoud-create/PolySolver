@@ -1,0 +1,3 @@
+# Runtime dependency count: zero.
+# This file is intentionally minimal.
+# You can install pytest if you prefer it, but the included tests use unittest.
