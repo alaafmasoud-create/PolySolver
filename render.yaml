@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: poly-equation-solver
+    env: docker
+    plan: free
+    autoDeploy: true
