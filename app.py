@@ -147,7 +147,7 @@ def main() -> None:
 
     st.divider()
     st.caption("Done with Python, Streamlit, and a matching C++17 solver library.")
-    st.markdown("<div style='text-align: center; padding-top: 0.5rem; font-size: 0.95rem;'>Built by Alan Masoud</div>", unsafe_allow_html=True)
+    st.markdown("<div style='text-align: center; padding-top: 0.5rem; font-size: 0.65rem;'>Built by Alan Masoud</div>", unsafe_allow_html=True)
 
 
 if __name__ == "__main__":
