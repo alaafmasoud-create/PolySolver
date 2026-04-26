@@ -146,7 +146,7 @@ def main() -> None:
     _render_preview_chart(equation_type, coefficients)
 
     st.divider()
-    st.caption("Built with Python, Streamlit, and a matching C++17 solver library.")
+    st.caption("Done with Python, Streamlit, and a matching C++17 solver library.")
     st.markdown("<div style='text-align: center; padding-top: 0.5rem; font-size: 0.95rem;'>Built by Alan Masoud</div>", unsafe_allow_html=True)
 
 
