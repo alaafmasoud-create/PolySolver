@@ -1,8 +1,7 @@
 # Polynomial Equation Solver — Quadratic & Cubic
 
-A GitHub-ready project for solving **quadratic** and **cubic** equations using both **Python** and **C++**.
+A **quadratic** and **cubic** equations using both **Python** and **C++**.
 
-The project includes:
 
 - Python package with CLI command
 - C++17 library and CLI executable
@@ -134,8 +133,6 @@ poly-equation-solver/
 ```
 
 ---
-
-
 
 ## License
 
