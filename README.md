@@ -221,22 +221,9 @@ Roots:
 
 ---
 
-## Arabic Summary
-
-هذا المشروع جاهز للرفع على GitHub، ويحل معادلات الدرجة الثانية والثالثة باستخدام Python و C++.
-
-يشمل المشروع:
-
-- كود Python كامل
-- كود C++ كامل
-- أوامر تشغيل من Terminal
-- اختبارات للتأكد من صحة النتائج
-- ملف README منظم
-- إعدادات CMake و GitHub Actions
-- أمثلة عملية
-
----
-
 ## License
 
 MIT License. See [`LICENSE`](LICENSE).
+
+Authior
+Built By Alan Masoud
